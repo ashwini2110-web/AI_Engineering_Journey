@@ -15,3 +15,4 @@ elif(marks>=35 and marks<40):
     print("Just Pass")
 else:
     print("Fail")    
+
