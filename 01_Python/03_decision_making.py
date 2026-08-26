@@ -1,3 +1,4 @@
+# Implementing if-else statements
 marks = int(input("Enter your marks out of 100 = "))
 if(marks>=90 and marks<=100):
     print("Outstanding")
@@ -15,3 +16,17 @@ elif(marks>=35 and marks<40):
     print("Just Pass")
 else:
     print("Fail")    
+
+# Implementing for loop
+n=5
+print("Pyramid")
+for i in range(1,6):
+    print("*"*i)
+print("Inverted Pyramid")
+for i in range(5,0,-1):
+    print("*"*i)    
+print("Central Pyramid")
+for i in range(1,n+1):
+    print(" "*(n-i),end=" ")
+    print((2*i - 1)*"*")    
+
