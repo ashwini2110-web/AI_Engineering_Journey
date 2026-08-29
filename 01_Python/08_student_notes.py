@@ -5,6 +5,8 @@ print("===================\n"
 parameters = ["Name","Branch","Goal"]
 student = []
 
+# Implementing file handling with loop
+
 with open("student.txt","w") as file:
     file.write("\n\n==Student Profile==\n\n")
     for info in parameters:
