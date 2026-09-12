@@ -1,5 +1,5 @@
 import numpy as np 
-
+ 
 # Creating Numpy Arrays Using Lists
 
 # One dimensional array
