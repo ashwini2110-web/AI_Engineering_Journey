@@ -9,7 +9,7 @@ print(f"Subtraction : {a-b}")         # subtraction
 print("Multiplication : ",a*b)        # multiplication 
 print("Division : ",a/b)              # division 
 print("Modulus : ",a%b)               # modulus 
-print("Power : ",a**b)                # power 
+print("Power : ",a**b)                # power  
 print("Floor division : ",b//a)       # floor division
 
 # Arithmetic Operations using functions
