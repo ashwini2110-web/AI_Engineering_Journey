@@ -46,7 +46,8 @@ print(f"Arcsin of Array is : {np.arcsin(arc_values)}")
 print(f"Arccos of Array is : {np.arccos(arc_values)}")
 app = np.append(arc_values, np.inf)
 print(f"Arctan of Array is : {np.arctan(app)}")
-
+print("Hypotenuse of triangle with two sides(6,8) is : ", np.hypot(6,8))
+      
 # Rounding and Floor/ceil
 print("Array is : ", x)
 print("Nearest integer : ",np.round(x))                    # nearest integer
@@ -111,4 +112,5 @@ print("Diterminant of matrix :\n",np.linalg.det(A))
 print("Inverse of matrix :\n",np.linalg.inv(A))
 print("Eigen Matrix : \n",np.linalg.eig(A))
 print(np.linalg.norm(A))                                 
+
 
