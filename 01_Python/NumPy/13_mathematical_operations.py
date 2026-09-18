@@ -14,8 +14,8 @@ print("Floor division : ",b//a)       # floor division
 
 # Arithmetic Operations using functions
 print(f"Array 1 : {a} \nArray 2 : {b}")
-print(f"Addition : {np.add(a, b)}")                                         # addition 
-print(f"Subtraction : {np.subtract(a,b, dtype = float)}")    # subtraction 
+print(f"Addition : {np.add(a, b)}")                                      # addition 
+print(f"Subtraction : {np.subtract(a,b, dtype = float)}")                # subtraction 
 print("Multiplication : ",np.multiply(a, b))                             # multiplication 
 print("Division : ",np.divide(a,b))                                      # division 
 print("Modulus : ",np.mod(a,b))                                          # modulus 
