@@ -2,19 +2,29 @@
 
 ## Completed
 
-✅ Python
+✅ Python Fundamentals
+
+✅ Git & GitHub
 
 ✅ NumPy
 
 ✅ Pandas Fundamentals
 
+✅ Pandas Mini Project
+
 ## Current
 
-🔄 Pandas Mini Project
+🔄 Data Visualization
 
-## Next
+## Upcoming
 
-- Data Visualization
-- SQL
 - Mathematics
+- SQL
 - Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- RAG & AI Agents
+- Backend (FastAPI)
+- Full Stack AI
