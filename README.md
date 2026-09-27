@@ -54,6 +54,23 @@ Become internship-ready for AI/ML, Generative AI, and Full-Stack AI Engineering 
 
 ## Progress
 
-Current Progress: Python ✅ | NumPy ✅ | Pandas ✅
+- ✅ Python Fundamentals
+- ✅ Git & GitHub
+- ✅ NumPy
+- ✅ Pandas Fundamentals
+- ✅ Pandas Mini Project
 
-Next Milestone: Pandas Mini Project → Data Visualization
+### Current Stage
+- 🔄 Data Visualization (Matplotlib)
+
+### Upcoming Stages
+- Mathematics
+- SQL
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- RAG & AI Agents
+- Backend (FastAPI)
+- Full Stack AI
