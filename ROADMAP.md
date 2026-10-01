@@ -12,9 +12,23 @@
 
 ✅ Pandas Mini Project
 
-## Current
+✅ Matplotlib Fundamentals
 
-🔄 Data Visualization
+✅ Matplotlib Mini Project
+
+# Current Stage
+
+🔄 Phase 4: Data Visualization
+
+Completed:
+✅ Matplotlib Fundamentals
+✅ Matplotlib Mini Project
+
+In Progress:
+🔄 Seaborn Fundamentals
+
+Remaining:
+⬜ EDA Project
 
 ## Upcoming
 
