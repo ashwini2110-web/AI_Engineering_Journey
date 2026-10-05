@@ -7,7 +7,7 @@ print(sns.get_dataset_names())
 
 # Basic Plots in Seaborn
 # Line plot
-fmri = sns.load_dataset("fmri")
+fmri = sns.load_dataset("fmri") 
 print(fmri)
 sns.lineplot(x = "timepoint", y = "signal", hue = "event", data = fmri)
 plt.show()
