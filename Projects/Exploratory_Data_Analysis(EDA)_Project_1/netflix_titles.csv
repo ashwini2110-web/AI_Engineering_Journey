@@ -1,0 +1,16 @@
+Show_ID,Type,Title,Director,Country,Release_Year,Rating,Duration,Genre
+1,Movie,Red Horizon,John Smith,USA,2020,PG-13,120,Action
+2,TV Show,City Dreams,Sarah Lee,India,2021,TV-14,3,Drama
+3,Movie,Ocean Deep,David Kumar,India,2019,U/A,95,Documentary
+4,Movie,Sky Warriors,Mike Brown,USA,2022,R,130,Action
+5,TV Show,Family Ties,Emma Wilson,UK,2018,TV-PG,5,Comedy
+6,Movie,Silent Night,,Canada,2020,PG,100,Drama
+7,TV Show,Code Hunter,Alex Roy,India,2023,TV-MA,2,Thriller
+8,Movie,Desert Storm,John Smith,USA,2017,R,140,Action
+9,Movie,Hidden Truth,Sarah Lee,India,2021,U/A,110,Thriller
+10,TV Show,Magic World,Emma Wilson,UK,2022,TV-G,4,Fantasy
+11,Movie,The Last King,David Kumar,India,2020,U/A,125,Historical
+12,Movie,Red Horizon,John Smith,USA,2020,PG-13,120,Action
+13,TV Show,Young Minds,,India,2021,TV-PG,3,Education
+14,Movie,Lost Planet,Mark Stone,Canada,2019,PG-13,105,Sci-Fi
+15,TV Show,Crime Files,Alex Roy,USA,2023,TV-MA,2,Crime
