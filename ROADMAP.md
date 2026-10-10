@@ -18,21 +18,17 @@
 
 # Current Stage
 
-🔄 Phase 4: Data Visualization
+🔄 Phase 5: Mathematics for AI
 
 Completed:
-✅ Matplotlib Fundamentals
-✅ Matplotlib Mini Project
+✅ Phase 4: Data Visualization Complete
+✅ Netflix EDA Project
 
 In Progress:
-🔄 Seaborn Fundamentals
-
-Remaining:
-⬜ EDA Project
+🔄 Mathematics for AI
 
 ## Upcoming
 
-- Mathematics
 - SQL
 - Machine Learning
 - Deep Learning
